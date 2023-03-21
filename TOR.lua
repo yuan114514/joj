@@ -1,4 +1,4 @@
---TOR V0.7.9j
+--TOR V0.7.9
 --免费脚本禁止倒卖
 repeat
     task.wait()
@@ -9,6 +9,8 @@ _G.whitelisted=true
 elseif a=="Noob"then
 _G.whitelisted=true
 elseif a=="king"then
+_G.whitelisted=true
+elseif a=="mubdsoa"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
