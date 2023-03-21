@@ -1,4 +1,4 @@
---TOR V0.7.9
+--TOR V0.7.9j
 --免费脚本禁止倒卖
 repeat
     task.wait()
